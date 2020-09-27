@@ -29,10 +29,20 @@ li>a {
 }
 body {
     font-family: 'Times New Roman', Times, serif;
-    margin: 0;
+    margin: 100px;
     font-size: 25px;
     text-align: center;
+    background-color: cornsilk;
 }
 html {
     box-sizing: border-box;
+}
+.summary{
+    float: left;
+}
+#footer{
+    padding-top: 250px;
+}
+#image{
+    float: right;
 }
