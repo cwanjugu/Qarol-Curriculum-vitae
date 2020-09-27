@@ -2,7 +2,7 @@
 #### {This is Carol Wanjugu Portfolio a web designer and developer}, {28/09/2020}
 #### By **{Carol Wanjugu}**
 ## Description
-*This is a detailed description of My application, including m purpose and usage.
+*This is a detailed description of My biography.
 ## Setup/Installation Requirements
 * This is a great place to be
 * Run today and walk tomorrow
