@@ -1,0 +1,39 @@
+footer {
+    background-color: darkcyan;
+    text-align: center;
+    font-style: normal;
+    width: 100%;
+    margin-bottom: 0;
+}
+nav {
+    background-color: darkcyan;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+    padding-top: 10px;
+    justify-content: center;
+}
+
+nav>ul>li {
+    display: inline;
+    margin: 70px;
+    list-style-type: none;
+    justify-content: right;
+    /* color: white; */
+}
+
+li>a {
+    color: black;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px;
+    font-size: 20px;
+    text-align: justify;
+    color:green:
+}
+html {
+    box-sizing: border-box;
+}
