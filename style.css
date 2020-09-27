@@ -30,7 +30,7 @@ body {
     margin: 0;
     font-size: 25px;
     text-align: center;
-    background-image: url("/cup.jpg");
+    background-image: url("cup.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     color:black;
