@@ -27,6 +27,9 @@ nav>ul>li {
 li>a {
     color: black;
 }
+a {
+    text-decoration: none;
+}
 body {
     font-family: 'Times New Roman', Times, serif;
     margin: 100px;

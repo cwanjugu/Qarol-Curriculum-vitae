@@ -30,6 +30,10 @@ body {
     margin: 0;
     font-size: 25px;
     text-align: center;
+    background-image: url("/cup.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:black;
 }
 html {
     box-sizing: border-box;
@@ -43,5 +47,9 @@ footer {
 }
 .logo{
     float:left;
+}
+.links{
+    list-style: none;
+    text-decoration: none;
 }
 
